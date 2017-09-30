@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/yeee/data_struct_LinkedList'
+let g:netrw_dirhist_2='/home/yeee/SP17-B05902105'
+let g:netrw_dirhist_3='/home/yeee/subtask'

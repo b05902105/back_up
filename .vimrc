@@ -1,0 +1,11 @@
+set cindent "自動縮排
+syntax on "語法上色
+set tabstop=4 "tab換成幾個空格
+set shiftwidth=4 "自動縮排時的空格數量
+set nu "顯示行號
+set ruler "縣市右下角詳細資訊
+set mouse=a "開啟滑鼠功能
+colorscheme kolor "擴充語法上色
+set autoindent "自動縮排功能
+set cindent "c自動縮排功能
+set t_Co=256 "擴充上色
